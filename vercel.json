@@ -1,8 +1,11 @@
 {
+  "redirects": [{"source": "deepconnection",       "destination": "web.actionera.com/deepconnection",       "permanent": true     }
+],
   "rewrites": [
     {
       "source": "/(.*)",
       "destination": "https://entrepreneurfreedom.org/$1"
- }
+    }
   ]
 }
+    
