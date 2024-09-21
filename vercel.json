@@ -1,5 +1,5 @@
 {
-  "redirects": [{"source": "deepconnection",       "destination": "web.actionera.com/deepconnection",       "permanent": true     }
+  "redirects": [{"source": "deepconnection",       "destination": "web.actionera.com/deepconnection",       "permanent": true     },{"source": "lotushaven",       "destination": "https://web.actionera.com/lotushaven",       "permanent": true     }
 ],
   "rewrites": [
     {
